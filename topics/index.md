@@ -3,6 +3,7 @@
 *****
 
 * Estaciones
-* Tiempo
+* [Tiempo](time.md)
+* [Posición](position.md)
 * Bar
 * Viajes

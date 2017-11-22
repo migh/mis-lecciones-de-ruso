@@ -2,7 +2,7 @@
 
 *****
 
-* Verbos
-* Adjetivos
-* Pronombres
+* [Verbos](verbs.md)
+* [Adjetivos](adjectives.md)
+* [Pronombres](nouns.md)
 * Números
